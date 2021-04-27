@@ -47,7 +47,7 @@ I had the same issues and after lots of research and trial & error I packed the 
 :point_right: No internet connection required <br>
 <br>
 
-Amongst the system optimizations, your active power plan is duplicated and modified for optimal performance. If you disable AntiLag, your power plan is restored. 
+Amongst the system optimizations, your active power plan is duplicated and modified for optimal performance. If you disable AntiLag, your power plan and settings are restored. 
 
 Here is a screenshot of [DPC Latency Checker](https://web.archive.org/web/20160317125429/https://www.thesycon.de/eng/latency_check.shtml) that shows [DPC](https://en.wikipedia.org/wiki/Deferred_Procedure_Call) Latency (lower is better) **before** (yellow) and **after** (green) enabling AntiLag. You can also use [LatencyMon](https://www.resplendence.com/latencymon) which analyses your system and generates a report with insightful performance data.
 <p align="center">
