@@ -12,7 +12,7 @@
   <a href="#license">
     <img src="https://img.shields.io/static/v1?style=flat&logo=creative%20commons&label=license&message=by-nc-nd&color=f8722a" alt="Project license" />
   </a>
-  <a href="#status">
+  <a href="#status--disclaimer">
     <img src="https://img.shields.io/badge/status-&alpha;lpha-brightgreen.svg" alt="Project status" />
   </a>
   <!--<a href="https://github.com/AmbitiousPilots/FSJumpStarter2020/releases">
@@ -64,6 +64,8 @@ Here is a screenshot of [DPC Latency Checker](https://web.archive.org/web/201603
 3. Your computer will be restarted for the changes to take effect. 
 4. Once enabled, make sure the AntiLag file remains in the same location. If you move it, follow step 2 again. 
 5. That's it. Enjoy! 
+
+<br>
 
 **Disable AntiLag**
 1. Run AntiLag and click on "Disable AntiLag". 
